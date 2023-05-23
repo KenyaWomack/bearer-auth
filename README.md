@@ -15,8 +15,6 @@ In this phase, the new requirement is that any user that has successfully logged
 
 ### Collaborators
 
-- Kao Saelor
-- Hayden Cooper
 - Coriana Williams
 
 ### Setup
@@ -39,4 +37,4 @@ To run tests, after running `npm i`, run the command `npm test`
 
 #### UML
 
-![UML image](UMLlab03.png)
+![UML image](UMLlab07.png)
