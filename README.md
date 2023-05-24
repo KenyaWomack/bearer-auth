@@ -33,7 +33,7 @@ Clone repo, `npm i`, then run `nodemon` in the terminal
 
 #### Tests
 
-To run tests, after running `npm i`, run the command `npm test`
+To run tests, after running `npm i`, run the command `npm test`.
 
 #### UML
 
