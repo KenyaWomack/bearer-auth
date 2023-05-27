@@ -49,7 +49,6 @@ describe('Auth Middleware', () => {
         });
 
     });
-
     it('logs in an admin user with the right credentials', () => {
       let basicAuthString = base64.encode(`${userInfo.admin.username}:${userInfo.admin.password}`);
 

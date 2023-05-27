@@ -21,7 +21,7 @@ describe('testing the Signup Handler', () => {
   };
   const next = jest.fn();
 
-  test('Should respond with a new user if a Username and Password is present on the request', async () => {
+  test('Should respons with a new user if a Username and Password is present on the request', async () => {
 
     let req = {
       body: {
