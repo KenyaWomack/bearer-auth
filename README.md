@@ -1,4 +1,4 @@
-# LAB - 03
+# LAB - 07
 
 ## Project: Bearer Auth
 
